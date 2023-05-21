@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Product Preview Card Component] (https://github.com/DevDan21/product-preview-card-component.git)
-- Live Site URL: [Product Preview Card Component] ()
+- Solution URL: [GitHub] (https://github.com/DevDan21/product-preview-card-component.git)
+- Live Site URL: [Product Preview Card Component] (https://devdan21.github.io/product-preview-card-component/)
 
 ## My process
 
